@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+carbon_capture_zenodo_5153417/raw/
+analysis/data_derived/
+analysis/results/

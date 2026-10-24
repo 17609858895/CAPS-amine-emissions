@@ -1,0 +1,99 @@
+{
+  "record_url": "https://zenodo.org/records/5153417",
+  "doi": "10.5281/zenodo.5153417",
+  "license": {
+    "id": "cc-by-4.0"
+  },
+  "files": [
+    {
+      "filename": "day1_raw.xlsx",
+      "source_url": "https://zenodo.org/api/records/5153417/files/day1_raw.xlsx/content",
+      "bytes": 5074983,
+      "expected_md5": "md5:61a16ff510445a16bbd1c08ae386ce05",
+      "actual_md5": "61a16ff510445a16bbd1c08ae386ce05",
+      "sha256": "877b91a63227291c0d2b7e1b5e13bdecb182c869ef32a1853e8b5dc1902b4091",
+      "verified": true
+    },
+    {
+      "filename": "day2_raw.xlsx",
+      "source_url": "https://zenodo.org/api/records/5153417/files/day2_raw.xlsx/content",
+      "bytes": 5302395,
+      "expected_md5": "md5:81544f44251de049e143aa378dba7727",
+      "actual_md5": "81544f44251de049e143aa378dba7727",
+      "sha256": "d9714503660b663fdec49e7ec8d5703dcb816a2dbe3c0321eb7836a644dd518a",
+      "verified": true
+    },
+    {
+      "filename": "day3_raw.xlsx",
+      "source_url": "https://zenodo.org/api/records/5153417/files/day3_raw.xlsx/content",
+      "bytes": 5311640,
+      "expected_md5": "md5:036eb5a2ef20a3a608de9a0517ead38a",
+      "actual_md5": "036eb5a2ef20a3a608de9a0517ead38a",
+      "sha256": "45b4992fb62c8888577a60e11edae16f13b8dbdad95a5c5a0fd5a0d39a558609",
+      "verified": true
+    },
+    {
+      "filename": "day4_raw.xlsx",
+      "source_url": "https://zenodo.org/api/records/5153417/files/day4_raw.xlsx/content",
+      "bytes": 5110289,
+      "expected_md5": "md5:89028da6f918e01bd4b1e299eb42de81",
+      "actual_md5": "89028da6f918e01bd4b1e299eb42de81",
+      "sha256": "d15047709d251c9faee740138455466bd63280e4359ae73ee912c9b099e81c79",
+      "verified": true
+    },
+    {
+      "filename": "day5_raw.xlsx",
+      "source_url": "https://zenodo.org/api/records/5153417/files/day5_raw.xlsx/content",
+      "bytes": 5131119,
+      "expected_md5": "md5:b40876027c82c7a3ded946acc9988746",
+      "actual_md5": "b40876027c82c7a3ded946acc9988746",
+      "sha256": "3be52222c712a7d2cd0e6ba58391cb58af25955632fe8f598ea1ddd0225c4349",
+      "verified": true
+    },
+    {
+      "filename": "day6_raw.xlsx",
+      "source_url": "https://zenodo.org/api/records/5153417/files/day6_raw.xlsx/content",
+      "bytes": 1581901,
+      "expected_md5": "md5:5fc68ca183d420e72685a4ed76535015",
+      "actual_md5": "5fc68ca183d420e72685a4ed76535015",
+      "sha256": "a5ef18a5dc593c2e09445b91b7485078aaf7b2e4901b04dde7bb54c74988d56c",
+      "verified": true
+    },
+    {
+      "filename": "day7_raw.xlsx",
+      "source_url": "https://zenodo.org/api/records/5153417/files/day7_raw.xlsx/content",
+      "bytes": 4736148,
+      "expected_md5": "md5:9b52e0f6c6a6e3b23ceac24b15fabd4b",
+      "actual_md5": "9b52e0f6c6a6e3b23ceac24b15fabd4b",
+      "sha256": "834c3af70a4c9e50a7fa404069fcb97e91c201b2ee44679498fd3a46f6f265b2",
+      "verified": true
+    },
+    {
+      "filename": "day8_raw.xlsx",
+      "source_url": "https://zenodo.org/api/records/5153417/files/day8_raw.xlsx/content",
+      "bytes": 1472248,
+      "expected_md5": "md5:87c7055692499590dc80c46a761b6696",
+      "actual_md5": "87c7055692499590dc80c46a761b6696",
+      "sha256": "4c2656dc1f43802620060d5cc3b4504d8661b5c01f8b5b1d2b5a6c0dac5b8b4c",
+      "verified": true
+    },
+    {
+      "filename": "day9_raw.xlsx",
+      "source_url": "https://zenodo.org/api/records/5153417/files/day9_raw.xlsx/content",
+      "bytes": 1475592,
+      "expected_md5": "md5:f8069dcedd3b3ac8fb0c306a8af15caf",
+      "actual_md5": "f8069dcedd3b3ac8fb0c306a8af15caf",
+      "sha256": "e6314d383fb2f1383d725f80fcdcd480f522e2d4b0a0f4169207d3ef8a0e86fb",
+      "verified": true
+    },
+    {
+      "filename": "day10_raw.xlsx",
+      "source_url": "https://zenodo.org/api/records/5153417/files/day10_raw.xlsx/content",
+      "bytes": 4732577,
+      "expected_md5": "md5:b9caab766a478e16fc7752171ff0aa9b",
+      "actual_md5": "b9caab766a478e16fc7752171ff0aa9b",
+      "sha256": "897fa5c80c97a2282ce01f52abbd627d28270abf262178822459afd1c8e78209",
+      "verified": true
+    }
+  ]
+}

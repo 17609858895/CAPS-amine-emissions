@@ -1,0 +1,66 @@
+[
+  {
+    "file": "analysis/scripts/01_extract_raw.py",
+    "sha256": "209c764ff835902088a73ff36f71fdd54b4edbddfe721e4a92fbde929db36b9e"
+  },
+  {
+    "file": "analysis/scripts/02_align_minutes.py",
+    "sha256": "fc26ed43fa5dabc8c013e8d3e4ac772664de9652c4d62b0040bc33adc8e6f956"
+  },
+  {
+    "file": "analysis/scripts/03_tracer_decomposition.py",
+    "sha256": "1980f2c59fbb7a53a9ea7a4cb73b53ca9127df2504b68fb118445bfc48349d8d"
+  },
+  {
+    "file": "analysis/scripts/04b_forecast_lean.py",
+    "sha256": "5367afa5b81bad999518874c9dd9678de08bc335e4676ebe92955f637e3805ff"
+  },
+  {
+    "file": "analysis/scripts/09_placebo_stacked_cf.py",
+    "sha256": "28d46268bdc6ba38b21ff97e157746f610de55198564d0c643590ed856058b18"
+  },
+  {
+    "file": "analysis/scripts/09c_bsts_comparator.py",
+    "sha256": "84a91065a96e9ea878063d19e9f7135e7948fbff89b1a09e27d28c794c6059c4"
+  },
+  {
+    "file": "analysis/scripts/10_burst_survival.py",
+    "sha256": "7973f5cd8b99b7f06c06d86d6da442cddf65c21dabba1761bf3a2566fa39533f"
+  },
+  {
+    "file": "analysis/scripts/11_whatif_vs_intervention.py",
+    "sha256": "0d366d9609c968821e57a457a7107569ce654c1a9dae6f55bf16b378b3ca5edd"
+  },
+  {
+    "file": "analysis/scripts/12_placebo_calibration.py",
+    "sha256": "646d2dcc5432e4ca98edc711dfc958d39d7e09242cfaf373d5abf9ad136d062d"
+  },
+  {
+    "file": "analysis/scripts/14_caps_robust_runs.py",
+    "sha256": "b857465fadff19c576f12a0f97157c073dfa49db769c1e48f6ed4858efad4547"
+  },
+  {
+    "file": "analysis/scripts/14b_caps_robust_analysis.py",
+    "sha256": "538949c02e4e626e5912efbe7614ee1860e85a7c8ec8c7dc37ceeb4980ea922c"
+  },
+  {
+    "file": "analysis/scripts/15_persistence_vs_published.py",
+    "sha256": "8e058544e1ce644b538743c0cf1a6c3c74856963d3f4d13a5432a191210e527b"
+  },
+  {
+    "file": "analysis/scripts/16_semisynthetic_benchmark.py",
+    "sha256": "e48c96ca19a363e33d42bc96f1e8624309d0b8ce1af62eaf0b3427dc01ce1a55"
+  },
+  {
+    "file": "analysis/scripts/17_mde_design.py",
+    "sha256": "a6b5db9d59d5bab608ffcff0c25c79188530bb6aa6ff09af64a39ec6a7c1b197"
+  },
+  {
+    "file": "analysis/scripts/18_time_constants.py",
+    "sha256": "6ecf00912002f23927c44f27f52fc36db6ae439b88970a5ffebdbe0e56531ea2"
+  },
+  {
+    "file": "analysis/scripts/common.py",
+    "sha256": "7b0441959bdd6205f33c32bfdcd25d452b47efcc366a01c5adea9a53c1d88786"
+  }
+]
