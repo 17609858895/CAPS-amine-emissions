@@ -13,11 +13,11 @@
   },
   {
     "file": "analysis/scripts/04b_forecast_lean.py",
-    "sha256": "5367afa5b81bad999518874c9dd9678de08bc335e4676ebe92955f637e3805ff"
+    "sha256": "67eeb4333b2d295ce6aceabf49b23e72e6530e2a760fec6c202c2eec06393aa6"
   },
   {
     "file": "analysis/scripts/09_placebo_stacked_cf.py",
-    "sha256": "28d46268bdc6ba38b21ff97e157746f610de55198564d0c643590ed856058b18"
+    "sha256": "9af8d606494978e1c17c12ff98ef678c222685688691940fb64c9ad847b734e1"
   },
   {
     "file": "analysis/scripts/09c_bsts_comparator.py",
@@ -41,7 +41,7 @@
   },
   {
     "file": "analysis/scripts/14b_caps_robust_analysis.py",
-    "sha256": "538949c02e4e626e5912efbe7614ee1860e85a7c8ec8c7dc37ceeb4980ea922c"
+    "sha256": "df041326c3ed7a39e8090a443745d337f8b0ffcbea2c4b5bcde844613bf66b8a"
   },
   {
     "file": "analysis/scripts/15_persistence_vs_published.py",

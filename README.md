@@ -27,6 +27,7 @@ Run from this repository root. Analysis outputs are written to `analysis/results
 python download_data.py
 python analysis/scripts/01_extract_raw.py
 python analysis/scripts/02_align_minutes.py
+python analysis/scripts/03_tracer_decomposition.py
 python analysis/scripts/09_placebo_stacked_cf.py --tag main --jobs 2
 python analysis/scripts/12_placebo_calibration.py main
 python analysis/scripts/14_caps_robust_runs.py --tag main_paths --jobs 2
